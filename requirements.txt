@@ -1,0 +1,11 @@
+pyttsx3
+pywhatkit
+datetime
+wikipedia
+pyjokes
+geopy
+python-newsapi
+requests
+pyautogui
+clipboard
+pyaudio
